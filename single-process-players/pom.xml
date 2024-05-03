@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>initiator-player-socket</artifactId>
+    <artifactId>single-process-players</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -26,7 +26,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>org.players.InitiatorPlayerSocket</mainClass>
+                            <mainClass>org.players.RunPlayers</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

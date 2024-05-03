@@ -5,6 +5,8 @@
     <file url="file://$PROJECT_DIR$/initiator-socket/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/receiver-socket/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/receiver-socket/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/single-process-players/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/single-process-players/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
