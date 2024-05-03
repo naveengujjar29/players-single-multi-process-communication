@@ -63,4 +63,4 @@ Once Maven and JDK 17 are installed and configured, you can run the provided scr
 
 1. Run the scripts for player communication:
    - **Single Process**: Execute the script `startup-single-process-players.sh` for single-process communication.
-   - **Multi-Process**: Execute the script `startup-multi-process-players.bat` for multi-process communication.
+   - **Multi-Process**: Execute the script `startup-multi-process-players.sh` for multi-process communication.
