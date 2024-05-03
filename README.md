@@ -8,17 +8,17 @@ If Maven is not installed on your system, follow these steps to install it:
 
 1. Download Maven:
    ```bash
-   wget http://mirror.olnevhost.net/pub/apache/maven/binaries/apache-maven-3.2.1-bin.tar.gz
+    wget https://dlcdn.apache.org/maven/maven-3/3.9.6/binaries/apache-maven-3.9.6-bin.tar.gz
    ```
 
 2. Extract Maven:
    ```bash
-   tar xvf apache-maven-3.2.1-bin.tar.gz
+   tar xvf apache-maven-3.9.6-bin.tar.gz
    ```
 
 3. Set up environment variables:
    ```bash
-   export M2_HOME=/usr/local/apache-maven/apache-maven-3.2.1
+   export M2_HOME=/usr/local/apache-maven/apache-maven-3.9.6
    export M2=$M2_HOME/bin
    export PATH=$M2:$PATH
    ```
